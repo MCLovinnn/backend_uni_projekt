@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    h1= title
+    p Welcome to Useroverview:
+    p The Statement: #{sql}
+    ul
+        - each erg in ergebnis
+        li= erg
