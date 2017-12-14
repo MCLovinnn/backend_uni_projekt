@@ -8,7 +8,7 @@ Guide to access the API
 * run npm install in root directoy of the project
 * run npm start
 
-## Endpoints ##
+## Endpoints (not availeable anymore) ##
 ### http://cheesy93.aries.uberspace.de:61501/ ###
 * GET    (no authentication needed)
 returns testpage
